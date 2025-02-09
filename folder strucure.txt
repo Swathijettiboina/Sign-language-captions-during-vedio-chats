@@ -1,0 +1,30 @@
+├── Sign-Language-Recognition-Model
+│   ├── collect_imgs.py
+│   ├── create_dataset.py
+│   ├── data.pickle
+│   ├── inference_classifier.py
+│   ├── model.p
+│   ├── requirements.txt
+│   ├── train_classifier.py
+├── Vedio-Calling-application
+│   ├── app
+│   │   ├── index.html
+│   ├── public
+│   │   ├── css
+│   │   │   ├── style.css
+│   │   ├── images
+│   │   │   ├── .DS_Store
+│   │   │   ├── customer-service.png
+│   │   │   ├── phone-call.png
+│   │   │   ├── phone-disconnect.png
+│   │   │   ├── phone.png
+│   │   ├── js
+│   │   │   ├── main.js
+│   │   │   ├── socket.io.js
+│   │   ├── .DS_Store
+│   ├── .DS_Store
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   ├── server.js
+│   ├── WebRTC.jpg
